@@ -1,0 +1,46 @@
+{
+  "general": {
+    "404": {
+      "error_code": "404",
+      "title": "Sorry, we couldn't find that page.",
+      "back": "Back to Shop"
+    },
+    "shop": {
+      "title": "Swagshop"
+    }
+  },
+  "header": {
+    "nav": {
+      "back": "Back",
+      "menu": "Menu",
+      "cart": "Cart"
+    }   
+  },
+  "product": {
+    "form": {
+      "submit": "Add to Cart"
+    },
+    "sold_out": "Sold Out"
+  },
+  "cart": {
+    "button": {
+      "count_html": "Cart (<span class=\"js-cart-item-count\">{{ itemCount }}</span>)",
+      "close": "Close"
+    },
+    "empty": {
+      "title": "The cart is empty"
+    }, 
+    "filled": {
+      "subtotal": "Subtotal:",
+      "button": "Checkout"
+    }
+  }, 
+  "sections" : {
+    "featured_collection": {
+      "view_all_button": "View All"
+    },
+    "image_with_text": {
+      "default_button": "Shop Now"
+    }
+  }
+}
